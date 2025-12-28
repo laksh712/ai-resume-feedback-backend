@@ -17,3 +17,6 @@ Backend service for an AI-powered resume feedback tool built using Spring Boot.
 - User authentication (JWT)
 - Resume analysis using AI
 - Feedback storage and history
+
+## Collaboration
+- Rutik Pimpale (Senior Developer)
